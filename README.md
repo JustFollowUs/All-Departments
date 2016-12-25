@@ -17,7 +17,7 @@
 - [法学院]
 - [文学院]
 - [医学院]
-- [药学院]
+- [药学院](https://github.com/JustFollowUs/College-of-pharmacy)
 - [社会学院]
 - [建筑与城市规划学院]
 - [地理学院]
